@@ -9,8 +9,8 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Ventura Rodriguez, 5 
+    url: http://159.65.204.200:7026/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
