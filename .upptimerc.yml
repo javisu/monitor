@@ -4,123 +4,123 @@ repo: monitor # The name of this repository
 
 sites:
   - name: Alberto Alcocer,30
-  url: http://159.65.204.200:7001/
-- name: Aliaga, Troya y Etruria
-  url: http://159.65.204.200:7002/
-- name: Apolonio Morales, 4
-  url: http://159.65.204.200:7003/
-- name: Capitán Haya 35 Calor
-  url: http://159.65.204.200:7004/
-- name: Capitán Haya 35 Frio
-  url: http://159.65.204.200:7005/
-- name: Cardenal Siliceo 25
-  url: http://159.65.204.200:7006/
-- name: Castello 110
-  url: http://159.65.204.200:7007/
-- name: Diligencia, 4 (1)
-  url: http://159.65.204.200:7008/
-- name: Diligencia, 4 (2)
-  url: http://159.65.204.200:7009/
-- name: Doctor Barraquer 1-21 (La Herradura I)
-  url: http://159.65.204.200:7010/
-- name: Don Ramón de la Cruz, 66
-  url: http://159.65.204.200:7011/
-- name: Donoso Cortés, 76
-  url: http://159.65.204.200:7012/
-- name: Écija, 6
-  url: http://159.65.204.200:7013/
-- name: Embajadores, 81
-  url: http://159.65.204.200:7014/
-- name: Española, 11
-  url: http://159.65.204.200:7015/
-- name: Fuentebella, 65-67
-  url: http://159.65.204.200:7016/
-- name: Fuentebella, 68-70
-  url: http://159.65.204.200:7017/
-- name: Fundación Bobath
-  url: http://159.65.204.200:7018/
-- name: General Díaz Porlier, 45
-  url: http://159.65.204.200:7019/
-- name: Gran Habitat, 4
-  url: http://159.65.204.200:7020/
-- name: Hilarión Eslava, 37
-  url: http://159.65.204.200:7021/
-- name: Ofelia Nieto, 57
-  url: http://159.65.204.200:7022/
-- name: Ofelia Nieto, 59
-  url: http://159.65.204.200:7023/
-- name: Orense, 23
-  url: http://159.65.204.200:7024/
-- name: Principe de Vergara, 197
-  url: http://159.65.204.200:7025/
-- name: Ventura Rodriguez, 5
-  url: http://159.65.204.200:7026/
-- name: Arroyo del Coronel
-  url: http://159.65.204.200:7027/
-- name: Avda. del Mediterráneo, 30
-  url: http://159.65.204.200:7028/
-- name: Avda. del Mediterráneo, 12-14
-  url: http://159.65.204.200:7029/
-- name: Avda. de Pio XII, 94
-  url: http://159.65.204.200:7030/
-- name: Claudio Coello, 23
-  url: http://159.65.204.200:7031/
-- name: Kerria, 28-40
-  url: http://159.65.204.200:7032/
-- name: Orense, 22
-  url: http://159.65.204.200:7033/
-- name: Pensamiento, 23
-  url: http://159.65.204.200:7034/
-- name: Peñasanta, 14
-  url: http://159.65.204.200:7035/
-- name: Castellana, 138
-  url: http://159.65.204.200:7036/
-- name: Etruria, 37
-  url: http://159.65.204.200:7037/
-- name: Colegio Malvar Producción
-  url: http://159.65.204.200:7038/
-- name: Colegio Malvar Principal
-  url: http://159.65.204.200:7039/
-- name: Colegio Malvar Infantiles
-  url: http://159.65.204.200:7040/
-- name: Colegio Malvar Piscina
-  url: http://159.65.204.200:7041/
-- name: Colodra, 5 SALA 1
-  url: http://159.65.204.200:7042/
-- name: Alfonso Rodriguez, 18
-  url: http://159.65.204.200:7043/
-- name: Norma, 357
-  url: http://159.65.204.200:7044/
-- name: Colodra, 5 SALA2
-  url: http://159.65.204.200:7045/
-- name: Paseo de Extremadura, 298
-  url: http://159.65.204.200:7046/
-- name: Antonio Acuña, 10
-  url: http://159.65.204.200:7047/
-- name: Cine, 50
-  url: http://159.65.204.200:7048/
-- name: Velazquez, 135
-  url: http://159.65.204.200:7049/
-- name: Valderrebollo, 30
-  url: http://159.65.204.200:7050/
-- name: Brescia, 4
-  url: http://159.65.204.200:7051/
-- name: Rodrigo de Triana, 1-8
-  url: http://159.65.204.200:7052/
-- name: Luis de Salazar, 16
-  url: http://159.65.204.200:7053/
-- name: Mediterraneo, 10
-  url: http://159.65.204.200:7054/
-- name: Poeta Joan Maragall, 16
-  url: http://159.65.204.200:7055/
-- name: Joaquin Bau, 5
-  url: http://159.65.204.200:7056/
-- name: Rodriguez Marin, 88
-  url: http://159.65.204.200:7057/
-- name: Uruguay, 16
-  url: http://159.65.204.200:7058/
-- name: Abeto, 2
-  url: http://159.65.204.200:7059/
+    url: http://159.65.204.200:7001/
+  - name: Aliaga, Troya y Etruria
+    url: http://159.65.204.200:7002/
+  - name: Apolonio Morales, 4
+    url: http://159.65.204.200:7003/
+  - name: Capitán Haya 35 Calor
+    url: http://159.65.204.200:7004/
+  - name: Capitán Haya 35 Frio
+    url: http://159.65.204.200:7005/
+  - name: Cardenal Siliceo 25
+    url: http://159.65.204.200:7006/
+  - name: Castello 110
+    url: http://159.65.204.200:7007/
+  - name: Diligencia, 4 (1)
+    url: http://159.65.204.200:7008/
+  - name: Diligencia, 4 (2)
+    url: http://159.65.204.200:7009/
+  - name: Doctor Barraquer 1-21 (La Herradura I)
+    url: http://159.65.204.200:7010/
+  - name: Don Ramón de la Cruz, 66
+    url: http://159.65.204.200:7011/
+  - name: Donoso Cortés, 76
+    url: http://159.65.204.200:7012/
+  - name: Écija, 6
+    url: http://159.65.204.200:7013/
+  - name: Embajadores, 81
+    url: http://159.65.204.200:7014/
+  - name: Española, 11
+    url: http://159.65.204.200:7015/
+  - name: Fuentebella, 65-67
+    url: http://159.65.204.200:7016/
+  - name: Fuentebella, 68-70
+    url: http://159.65.204.200:7017/
+  - name: Fundación Bobath
+    url: http://159.65.204.200:7018/
+  - name: General Díaz Porlier, 45
+    url: http://159.65.204.200:7019/
+  - name: Gran Habitat, 4
+    url: http://159.65.204.200:7020/
+  - name: Hilarión Eslava, 37
+    url: http://159.65.204.200:7021/
+  - name: Ofelia Nieto, 57
+    url: http://159.65.204.200:7022/
+  - name: Ofelia Nieto, 59
+    url: http://159.65.204.200:7023/
+  - name: Orense, 23
+    url: http://159.65.204.200:7024/
+  - name: Principe de Vergara, 197
+    url: http://159.65.204.200:7025/
+  - name: Ventura Rodriguez, 5
+    url: http://159.65.204.200:7026/
+  - name: Arroyo del Coronel
+    url: http://159.65.204.200:7027/
+  - name: Avda. del Mediterráneo, 30
+    url: http://159.65.204.200:7028/
+  - name: Avda. del Mediterráneo, 12-14
+    url: http://159.65.204.200:7029/
+  - name: Avda. de Pio XII, 94
+    url: http://159.65.204.200:7030/
+  - name: Claudio Coello, 23
+    url: http://159.65.204.200:7031/
+  - name: Kerria, 28-40
+    url: http://159.65.204.200:7032/
+  - name: Orense, 22
+    url: http://159.65.204.200:7033/
+  - name: Pensamiento, 23
+    url: http://159.65.204.200:7034/
+  - name: Peñasanta, 14
+    url: http://159.65.204.200:7035/
+  - name: Castellana, 138
+    url: http://159.65.204.200:7036/
+  - name: Etruria, 37
+    url: http://159.65.204.200:7037/
+  - name: Colegio Malvar Producción
+    url: http://159.65.204.200:7038/
+  - name: Colegio Malvar Principal
+    url: http://159.65.204.200:7039/
+  - name: Colegio Malvar Infantiles
+    url: http://159.65.204.200:7040/
+  - name: Colegio Malvar Piscina
+    url: http://159.65.204.200:7041/
+  - name: Colodra, 5 SALA 1
+    url: http://159.65.204.200:7042/
+  - name: Alfonso Rodriguez, 18
+    url: http://159.65.204.200:7043/
+  - name: Norma, 357
+    url: http://159.65.204.200:7044/
+  - name: Colodra, 5 SALA2
+    url: http://159.65.204.200:7045/
+  - name: Paseo de Extremadura, 298
+    url: http://159.65.204.200:7046/
+  - name: Antonio Acuña, 10
+    url: http://159.65.204.200:7047/
+  - name: Cine, 50
+    url: http://159.65.204.200:7048/
+  - name: Velazquez, 135
+    url: http://159.65.204.200:7049/
+  - name: Valderrebollo, 30
+    url: http://159.65.204.200:7050/
+  - name: Brescia, 4
+    url: http://159.65.204.200:7051/
+  - name: Rodrigo de Triana, 1-8
+    url: http://159.65.204.200:7052/
+  - name: Luis de Salazar, 16
+    url: http://159.65.204.200:7053/
+  - name: Mediterraneo, 10
+    url: http://159.65.204.200:7054/
+  - name: Poeta Joan Maragall, 16
+    url: http://159.65.204.200:7055/
+  - name: Joaquin Bau, 5
+    url: http://159.65.204.200:7056/
+  - name: Rodriguez Marin, 88
+    url: http://159.65.204.200:7057/
+  - name: Uruguay, 16
+    url: http://159.65.204.200:7058/
+  - name: Abeto, 2
+    url: http://159.65.204.200:7059/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
