@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-07": 748,
+      "2022-02-07": 780,
       "2022-02-06": 785
     }
   },
@@ -181,7 +181,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-07": 748,
+      "2022-02-07": 780,
       "2022-02-06": 783
     }
   },
@@ -238,7 +238,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-07": 748,
+      "2022-02-07": 780,
       "2022-02-06": 781
     }
   },
@@ -265,19 +265,19 @@
     "url": "http://159.65.204.200:7015/",
     "icon": "https://favicons.githubusercontent.com/159.65.204.200",
     "slug": "espanola-11",
-    "status": "down",
-    "uptime": "93.70%",
-    "uptimeDay": "93.31%",
-    "uptimeWeek": "93.70%",
-    "uptimeMonth": "93.70%",
-    "uptimeYear": "93.70%",
-    "time": 424,
-    "timeDay": 412,
-    "timeWeek": 424,
-    "timeMonth": 424,
-    "timeYear": 424,
+    "status": "up",
+    "uptime": "92.36%",
+    "uptimeDay": "91.71%",
+    "uptimeWeek": "92.36%",
+    "uptimeMonth": "92.36%",
+    "uptimeYear": "92.36%",
+    "time": 654,
+    "timeDay": 721,
+    "timeWeek": 654,
+    "timeMonth": 654,
+    "timeYear": 654,
     "dailyMinutesDown": {
-      "2022-02-07": 97
+      "2022-02-07": 120
     }
   },
   {
@@ -333,7 +333,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-07": 748,
+      "2022-02-07": 780,
       "2022-02-06": 780
     }
   },
@@ -372,7 +372,7 @@
     "timeMonth": 3348,
     "timeYear": 3348,
     "dailyMinutesDown": {
-      "2022-02-07": 748,
+      "2022-02-07": 780,
       "2022-02-06": 780
     }
   },
@@ -400,18 +400,18 @@
     "icon": "https://favicons.githubusercontent.com/159.65.204.200",
     "slug": "ofelia-nieto-57",
     "status": "down",
-    "uptime": "49.56%",
-    "uptimeDay": "46.49%",
-    "uptimeWeek": "49.56%",
-    "uptimeMonth": "49.56%",
-    "uptimeYear": "49.56%",
+    "uptime": "48.53%",
+    "uptimeDay": "44.26%",
+    "uptimeWeek": "48.53%",
+    "uptimeMonth": "48.53%",
+    "uptimeYear": "48.53%",
     "time": 539,
     "timeDay": 509,
     "timeWeek": 539,
     "timeMonth": 539,
     "timeYear": 539,
     "dailyMinutesDown": {
-      "2022-02-07": 748,
+      "2022-02-07": 780,
       "2022-02-06": 22
     }
   },
@@ -450,7 +450,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-07": 748,
+      "2022-02-07": 780,
       "2022-02-06": 778
     }
   },
@@ -543,7 +543,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-07": 748,
+      "2022-02-07": 780,
       "2022-02-06": 776
     }
   },
@@ -768,19 +768,19 @@
     "url": "http://159.65.204.200:7042/",
     "icon": "https://favicons.githubusercontent.com/159.65.204.200",
     "slug": "colodra-5-sala-1",
-    "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 3344,
-    "timeDay": 3330,
-    "timeWeek": 3344,
-    "timeMonth": 3344,
-    "timeYear": 3344,
+    "status": "up",
+    "uptime": "0.20%",
+    "uptimeDay": "0.20%",
+    "uptimeWeek": "0.20%",
+    "uptimeMonth": "0.20%",
+    "uptimeYear": "0.20%",
+    "time": 2931,
+    "timeDay": 2718,
+    "timeWeek": 2931,
+    "timeMonth": 2931,
+    "timeYear": 2931,
     "dailyMinutesDown": {
-      "2022-02-07": 748,
+      "2022-02-07": 777,
       "2022-02-06": 776
     }
   },
@@ -807,19 +807,19 @@
     "url": "http://159.65.204.200:7044/",
     "icon": "https://favicons.githubusercontent.com/159.65.204.200",
     "slug": "norma-357",
-    "status": "down",
-    "uptime": "88.19%",
-    "uptimeDay": "88.63%",
-    "uptimeWeek": "88.19%",
-    "uptimeMonth": "88.19%",
-    "uptimeYear": "88.19%",
-    "time": 9291,
-    "timeDay": 9784,
-    "timeWeek": 9291,
-    "timeMonth": 9291,
-    "timeYear": 9291,
+    "status": "up",
+    "uptime": "86.56%",
+    "uptimeDay": "86.61%",
+    "uptimeWeek": "86.56%",
+    "uptimeMonth": "86.56%",
+    "uptimeYear": "86.56%",
+    "time": 8763,
+    "timeDay": 9096,
+    "timeWeek": 8763,
+    "timeMonth": 8763,
+    "timeYear": 8763,
     "dailyMinutesDown": {
-      "2022-02-07": 100,
+      "2022-02-07": 129,
       "2022-02-06": 80
     }
   },
@@ -829,11 +829,11 @@
     "icon": "https://favicons.githubusercontent.com/159.65.204.200",
     "slug": "colodra-5-sala-2",
     "status": "up",
-    "uptime": "97.25%",
+    "uptime": "97.31%",
     "uptimeDay": "97.09%",
-    "uptimeWeek": "97.25%",
-    "uptimeMonth": "97.25%",
-    "uptimeYear": "97.25%",
+    "uptimeWeek": "97.31%",
+    "uptimeMonth": "97.31%",
+    "uptimeYear": "97.31%",
     "time": 7069,
     "timeDay": 8149,
     "timeWeek": 7069,
@@ -848,18 +848,19 @@
     "url": "http://159.65.204.200:7046/",
     "icon": "https://favicons.githubusercontent.com/159.65.204.200",
     "slug": "paseo-de-extremadura-298",
-    "status": "up",
-    "uptime": "98.16%",
-    "uptimeDay": "98.18%",
-    "uptimeWeek": "98.16%",
-    "uptimeMonth": "98.16%",
-    "uptimeYear": "98.16%",
+    "status": "down",
+    "uptime": "98.11%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "98.11%",
+    "uptimeMonth": "98.11%",
+    "uptimeYear": "98.11%",
     "time": 8338,
-    "timeDay": 3635,
+    "timeDay": 1215,
     "timeWeek": 8338,
     "timeMonth": 8338,
     "timeYear": 8338,
     "dailyMinutesDown": {
+      "2022-02-07": 1,
       "2022-02-06": 28
     }
   },
@@ -970,7 +971,7 @@
     "timeMonth": 521,
     "timeYear": 521,
     "dailyMinutesDown": {
-      "2022-02-07": 748,
+      "2022-02-07": 780,
       "2022-02-06": 775
     }
   },
@@ -1009,7 +1010,7 @@
     "timeMonth": 3348,
     "timeYear": 3348,
     "dailyMinutesDown": {
-      "2022-02-07": 748,
+      "2022-02-07": 780,
       "2022-02-06": 775
     }
   },
@@ -1030,7 +1031,7 @@
     "timeMonth": 3340,
     "timeYear": 3340,
     "dailyMinutesDown": {
-      "2022-02-07": 748,
+      "2022-02-07": 780,
       "2022-02-06": 775
     }
   },
@@ -1058,11 +1059,11 @@
     "icon": "https://favicons.githubusercontent.com/159.65.204.200",
     "slug": "rodriguez-marin-88",
     "status": "up",
-    "uptime": "72.49%",
-    "uptimeDay": "70.97%",
-    "uptimeWeek": "72.49%",
-    "uptimeMonth": "72.49%",
-    "uptimeYear": "72.49%",
+    "uptime": "73.06%",
+    "uptimeDay": "73.19%",
+    "uptimeWeek": "73.06%",
+    "uptimeMonth": "73.06%",
+    "uptimeYear": "73.06%",
     "time": 9207,
     "timeDay": 9140,
     "timeWeek": 9207,
@@ -1090,7 +1091,7 @@
     "timeMonth": 3378,
     "timeYear": 3378,
     "dailyMinutesDown": {
-      "2022-02-07": 748,
+      "2022-02-07": 780,
       "2022-02-06": 775
     }
   },
@@ -1111,7 +1112,7 @@
     "timeMonth": 3350,
     "timeYear": 3350,
     "dailyMinutesDown": {
-      "2022-02-07": 748,
+      "2022-02-07": 780,
       "2022-02-06": 775
     }
   }
