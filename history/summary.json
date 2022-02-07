@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-07": 871,
+      "2022-02-07": 890,
       "2022-02-06": 785
     }
   },
@@ -181,7 +181,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-07": 871,
+      "2022-02-07": 890,
       "2022-02-06": 783
     }
   },
@@ -238,7 +238,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-07": 871,
+      "2022-02-07": 890,
       "2022-02-06": 781
     }
   },
@@ -266,18 +266,18 @@
     "icon": "https://favicons.githubusercontent.com/159.65.204.200",
     "slug": "espanola-11",
     "status": "down",
-    "uptime": "87.91%",
-    "uptimeDay": "86.13%",
-    "uptimeWeek": "87.91%",
-    "uptimeMonth": "87.91%",
-    "uptimeYear": "87.91%",
+    "uptime": "86.87%",
+    "uptimeDay": "84.76%",
+    "uptimeWeek": "86.87%",
+    "uptimeMonth": "86.87%",
+    "uptimeYear": "86.87%",
     "time": 654,
     "timeDay": 721,
     "timeWeek": 654,
     "timeMonth": 654,
     "timeYear": 654,
     "dailyMinutesDown": {
-      "2022-02-07": 200
+      "2022-02-07": 220
     }
   },
   {
@@ -333,7 +333,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-07": 871,
+      "2022-02-07": 890,
       "2022-02-06": 780
     }
   },
@@ -372,7 +372,7 @@
     "timeMonth": 3348,
     "timeYear": 3348,
     "dailyMinutesDown": {
-      "2022-02-07": 871,
+      "2022-02-07": 890,
       "2022-02-06": 780
     }
   },
@@ -400,18 +400,18 @@
     "icon": "https://favicons.githubusercontent.com/159.65.204.200",
     "slug": "ofelia-nieto-57",
     "status": "down",
-    "uptime": "45.87%",
-    "uptimeDay": "37.98%",
-    "uptimeWeek": "45.87%",
-    "uptimeMonth": "45.87%",
-    "uptimeYear": "45.87%",
+    "uptime": "45.33%",
+    "uptimeDay": "36.61%",
+    "uptimeWeek": "45.33%",
+    "uptimeMonth": "45.33%",
+    "uptimeYear": "45.33%",
     "time": 539,
     "timeDay": 509,
     "timeWeek": 539,
     "timeMonth": 539,
     "timeYear": 539,
     "dailyMinutesDown": {
-      "2022-02-07": 871,
+      "2022-02-07": 890,
       "2022-02-06": 22
     }
   },
@@ -450,7 +450,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-07": 871,
+      "2022-02-07": 890,
       "2022-02-06": 778
     }
   },
@@ -543,7 +543,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-07": 871,
+      "2022-02-07": 890,
       "2022-02-06": 776
     }
   },
@@ -769,11 +769,11 @@
     "icon": "https://favicons.githubusercontent.com/159.65.204.200",
     "slug": "colodra-5-sala-1",
     "status": "up",
-    "uptime": "5.68%",
-    "uptimeDay": "6.48%",
-    "uptimeWeek": "5.68%",
-    "uptimeMonth": "5.68%",
-    "uptimeYear": "5.68%",
+    "uptime": "6.79%",
+    "uptimeDay": "7.85%",
+    "uptimeWeek": "6.79%",
+    "uptimeMonth": "6.79%",
+    "uptimeYear": "6.79%",
     "time": 2931,
     "timeDay": 2718,
     "timeWeek": 2931,
@@ -807,19 +807,19 @@
     "url": "http://159.65.204.200:7044/",
     "icon": "https://favicons.githubusercontent.com/159.65.204.200",
     "slug": "norma-357",
-    "status": "down",
-    "uptime": "82.82%",
-    "uptimeDay": "81.48%",
-    "uptimeWeek": "82.82%",
-    "uptimeMonth": "82.82%",
-    "uptimeYear": "82.82%",
-    "time": 9353,
-    "timeDay": 9789,
-    "timeWeek": 9353,
-    "timeMonth": 9353,
-    "timeYear": 9353,
+    "status": "up",
+    "uptime": "82.39%",
+    "uptimeDay": "80.75%",
+    "uptimeWeek": "82.39%",
+    "uptimeMonth": "82.39%",
+    "uptimeYear": "82.39%",
+    "time": 8874,
+    "timeDay": 9185,
+    "timeWeek": 8874,
+    "timeMonth": 8874,
+    "timeYear": 8874,
     "dailyMinutesDown": {
-      "2022-02-07": 203,
+      "2022-02-07": 213,
       "2022-02-06": 80
     }
   },
@@ -829,11 +829,11 @@
     "icon": "https://favicons.githubusercontent.com/159.65.204.200",
     "slug": "colodra-5-sala-2",
     "status": "up",
-    "uptime": "97.46%",
+    "uptime": "97.49%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.46%",
-    "uptimeMonth": "97.46%",
-    "uptimeYear": "97.46%",
+    "uptimeWeek": "97.49%",
+    "uptimeMonth": "97.49%",
+    "uptimeYear": "97.49%",
     "time": 7069,
     "timeDay": 1209,
     "timeWeek": 7069,
@@ -849,11 +849,11 @@
     "icon": "https://favicons.githubusercontent.com/159.65.204.200",
     "slug": "paseo-de-extremadura-298",
     "status": "up",
-    "uptime": "96.15%",
+    "uptime": "96.20%",
     "uptimeDay": "97.55%",
-    "uptimeWeek": "96.15%",
-    "uptimeMonth": "96.15%",
-    "uptimeYear": "96.15%",
+    "uptimeWeek": "96.20%",
+    "uptimeMonth": "96.20%",
+    "uptimeYear": "96.20%",
     "time": 11098,
     "timeDay": 11484,
     "timeWeek": 11098,
@@ -971,7 +971,7 @@
     "timeMonth": 521,
     "timeYear": 521,
     "dailyMinutesDown": {
-      "2022-02-07": 871,
+      "2022-02-07": 890,
       "2022-02-06": 775
     }
   },
@@ -1010,7 +1010,7 @@
     "timeMonth": 3348,
     "timeYear": 3348,
     "dailyMinutesDown": {
-      "2022-02-07": 871,
+      "2022-02-07": 890,
       "2022-02-06": 775
     }
   },
@@ -1031,7 +1031,7 @@
     "timeMonth": 3340,
     "timeYear": 3340,
     "dailyMinutesDown": {
-      "2022-02-07": 871,
+      "2022-02-07": 890,
       "2022-02-06": 775
     }
   },
@@ -1059,11 +1059,11 @@
     "icon": "https://favicons.githubusercontent.com/159.65.204.200",
     "slug": "rodriguez-marin-88",
     "status": "up",
-    "uptime": "74.54%",
+    "uptime": "74.84%",
     "uptimeDay": "75.40%",
-    "uptimeWeek": "74.54%",
-    "uptimeMonth": "74.54%",
-    "uptimeYear": "74.54%",
+    "uptimeWeek": "74.84%",
+    "uptimeMonth": "74.84%",
+    "uptimeYear": "74.84%",
     "time": 9207,
     "timeDay": 9584,
     "timeWeek": 9207,
@@ -1091,7 +1091,7 @@
     "timeMonth": 3378,
     "timeYear": 3378,
     "dailyMinutesDown": {
-      "2022-02-07": 871,
+      "2022-02-07": 890,
       "2022-02-06": 775
     }
   },
@@ -1112,7 +1112,7 @@
     "timeMonth": 3350,
     "timeYear": 3350,
     "dailyMinutesDown": {
-      "2022-02-07": 871,
+      "2022-02-07": 890,
       "2022-02-06": 775
     }
   }
