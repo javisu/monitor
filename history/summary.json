@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-08": 301,
+      "2022-02-08": 337,
       "2022-02-07": 1440,
       "2022-02-06": 785
     }
@@ -182,7 +182,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-08": 301,
+      "2022-02-08": 337,
       "2022-02-07": 1440,
       "2022-02-06": 783
     }
@@ -240,7 +240,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-08": 301,
+      "2022-02-08": 337,
       "2022-02-07": 1440,
       "2022-02-06": 781
     }
@@ -269,11 +269,11 @@
     "icon": "https://favicons.githubusercontent.com/159.65.204.200",
     "slug": "espanola-11",
     "status": "up",
-    "uptime": "89.25%",
+    "uptime": "89.40%",
     "uptimeDay": "81.16%",
-    "uptimeWeek": "89.25%",
-    "uptimeMonth": "89.25%",
-    "uptimeYear": "89.25%",
+    "uptimeWeek": "89.40%",
+    "uptimeMonth": "89.40%",
+    "uptimeYear": "89.40%",
     "time": 586,
     "timeDay": 691,
     "timeWeek": 586,
@@ -336,7 +336,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-08": 301,
+      "2022-02-08": 337,
       "2022-02-07": 1440,
       "2022-02-06": 780
     }
@@ -376,7 +376,7 @@
     "timeMonth": 3348,
     "timeYear": 3348,
     "dailyMinutesDown": {
-      "2022-02-08": 301,
+      "2022-02-08": 337,
       "2022-02-07": 1440,
       "2022-02-06": 780
     }
@@ -405,18 +405,18 @@
     "icon": "https://favicons.githubusercontent.com/159.65.204.200",
     "slug": "ofelia-nieto-57",
     "status": "down",
-    "uptime": "30.03%",
+    "uptime": "29.60%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "30.03%",
-    "uptimeMonth": "30.03%",
-    "uptimeYear": "30.03%",
+    "uptimeWeek": "29.60%",
+    "uptimeMonth": "29.60%",
+    "uptimeYear": "29.60%",
     "time": 539,
     "timeDay": 0,
     "timeWeek": 539,
     "timeMonth": 539,
     "timeYear": 539,
     "dailyMinutesDown": {
-      "2022-02-08": 301,
+      "2022-02-08": 337,
       "2022-02-07": 1440,
       "2022-02-06": 22
     }
@@ -456,7 +456,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-08": 301,
+      "2022-02-08": 337,
       "2022-02-07": 1440,
       "2022-02-06": 778
     }
@@ -550,7 +550,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-08": 301,
+      "2022-02-08": 337,
       "2022-02-07": 1440,
       "2022-02-06": 776
     }
@@ -777,11 +777,11 @@
     "icon": "https://favicons.githubusercontent.com/159.65.204.200",
     "slug": "colodra-5-sala-1",
     "status": "up",
-    "uptime": "38.30%",
-    "uptimeDay": "66.95%",
-    "uptimeWeek": "38.30%",
-    "uptimeMonth": "38.30%",
-    "uptimeYear": "38.30%",
+    "uptime": "39.17%",
+    "uptimeDay": "69.46%",
+    "uptimeWeek": "39.17%",
+    "uptimeMonth": "39.17%",
+    "uptimeYear": "39.17%",
     "time": 2931,
     "timeDay": 2105,
     "timeWeek": 2931,
@@ -815,19 +815,19 @@
     "url": "http://159.65.204.200:7044/",
     "icon": "https://favicons.githubusercontent.com/159.65.204.200",
     "slug": "norma-357",
-    "status": "down",
-    "uptime": "83.03%",
-    "uptimeDay": "80.18%",
-    "uptimeWeek": "83.03%",
-    "uptimeMonth": "83.03%",
-    "uptimeYear": "83.03%",
-    "time": 8908,
-    "timeDay": 9368,
-    "timeWeek": 8908,
-    "timeMonth": 8908,
-    "timeYear": 8908,
+    "status": "up",
+    "uptime": "81.90%",
+    "uptimeDay": "77.75%",
+    "uptimeWeek": "81.90%",
+    "uptimeMonth": "81.90%",
+    "uptimeYear": "81.90%",
+    "time": 8605,
+    "timeDay": 8772,
+    "timeWeek": 8605,
+    "timeMonth": 8605,
+    "timeYear": 8605,
     "dailyMinutesDown": {
-      "2022-02-08": 96,
+      "2022-02-08": 131,
       "2022-02-07": 249,
       "2022-02-06": 80
     }
@@ -838,11 +838,11 @@
     "icon": "https://favicons.githubusercontent.com/159.65.204.200",
     "slug": "colodra-5-sala-2",
     "status": "up",
-    "uptime": "97.59%",
+    "uptime": "97.62%",
     "uptimeDay": "98.69%",
-    "uptimeWeek": "97.59%",
-    "uptimeMonth": "97.59%",
-    "uptimeYear": "97.59%",
+    "uptimeWeek": "97.62%",
+    "uptimeMonth": "97.62%",
+    "uptimeYear": "97.62%",
     "time": 10174,
     "timeDay": 19490,
     "timeWeek": 10174,
@@ -859,11 +859,11 @@
     "icon": "https://favicons.githubusercontent.com/159.65.204.200",
     "slug": "paseo-de-extremadura-298",
     "status": "up",
-    "uptime": "94.19%",
+    "uptime": "94.27%",
     "uptimeDay": "91.79%",
-    "uptimeWeek": "94.19%",
-    "uptimeMonth": "94.19%",
-    "uptimeYear": "94.19%",
+    "uptimeWeek": "94.27%",
+    "uptimeMonth": "94.27%",
+    "uptimeYear": "94.27%",
     "time": 10610,
     "timeDay": 12125,
     "timeWeek": 10610,
@@ -982,7 +982,7 @@
     "timeMonth": 521,
     "timeYear": 521,
     "dailyMinutesDown": {
-      "2022-02-08": 301,
+      "2022-02-08": 338,
       "2022-02-07": 1440,
       "2022-02-06": 775
     }
@@ -1022,7 +1022,7 @@
     "timeMonth": 3348,
     "timeYear": 3348,
     "dailyMinutesDown": {
-      "2022-02-08": 301,
+      "2022-02-08": 338,
       "2022-02-07": 1440,
       "2022-02-06": 775
     }
@@ -1044,7 +1044,7 @@
     "timeMonth": 3340,
     "timeYear": 3340,
     "dailyMinutesDown": {
-      "2022-02-08": 301,
+      "2022-02-08": 338,
       "2022-02-07": 1440,
       "2022-02-06": 775
     }
@@ -1073,11 +1073,11 @@
     "icon": "https://favicons.githubusercontent.com/159.65.204.200",
     "slug": "rodriguez-marin-88",
     "status": "up",
-    "uptime": "80.94%",
-    "uptimeDay": "86.01%",
-    "uptimeWeek": "80.94%",
-    "uptimeMonth": "80.94%",
-    "uptimeYear": "80.94%",
+    "uptime": "81.21%",
+    "uptimeDay": "88.53%",
+    "uptimeWeek": "81.21%",
+    "uptimeMonth": "81.21%",
+    "uptimeYear": "81.21%",
     "time": 9350,
     "timeDay": 9166,
     "timeWeek": 9350,
@@ -1105,7 +1105,7 @@
     "timeMonth": 3378,
     "timeYear": 3378,
     "dailyMinutesDown": {
-      "2022-02-08": 301,
+      "2022-02-08": 338,
       "2022-02-07": 1440,
       "2022-02-06": 775
     }
@@ -1127,7 +1127,7 @@
     "timeMonth": 3350,
     "timeYear": 3350,
     "dailyMinutesDown": {
-      "2022-02-08": 301,
+      "2022-02-08": 338,
       "2022-02-07": 1440,
       "2022-02-06": 775
     }
