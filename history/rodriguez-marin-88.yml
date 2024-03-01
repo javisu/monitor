@@ -1,7 +1,7 @@
 url: http://159.65.204.200:7057/
-status: up
-code: 200
-responseTime: 735
-lastUpdated: 2024-03-01T08:55:00.971Z
+status: down
+code: 502
+responseTime: 18782
+lastUpdated: 2024-03-01T10:38:22.549Z
 startTime: 2022-02-06T11:05:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
